@@ -1,1 +1,2 @@
-# ROM-projekt
+# Kariera Kanye Westa
+Ta repozitorij vsebuje projekt, v katerem bom analizirala čase in število izdaj pesmi ter albumov glasbenega ustvarjalca Kanye Westa. Poiskala bom podatke o vseh njegovih do sedaj izdanih albumov in pesmi ter analizirala njihovo število in čas izdaje. Primerjala bom tudi prvi in zadnji album, po številu pesmi, ter njihovimi dolžinami. Vse to bom izrisala v grafe, ki bodo prikazovali, kdaj je bilo izdano koliko albumov, kdaj je bilo izdanih koliko pesmi, povprečne dolžine pesmi prvega ter zadnjega albuma...
